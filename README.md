@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 🤝 Colaboradores
 
-| [<img src="https://github.com/rodfon3301.png" width=80><br><sub>Rodrigo Fonseca</sub>](https://github.com/rodfon3301) |
+ |[<img src="https://github.com/rodfon3301.png" width=80><br><sub>Rodrigo Fonseca</sub>](https://github.com/rodfon3301)|
 <!--
 **rodfon3301/rodfon3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
